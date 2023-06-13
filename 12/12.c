@@ -26,3 +26,4 @@ int main()
     }
     return 0;
 }
+// to run enter the command : cc -fopenmp 12.c
